@@ -1,3 +1,4 @@
+scroll(0,0);
 createLoadingDom();//创建加载中蒙版
 var qhasilver_timer = null;//计时器
 var qhasilver_images = document.getElementsByTagName('img');//图片数组
